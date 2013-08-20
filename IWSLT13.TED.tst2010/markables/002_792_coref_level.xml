@@ -6,15 +6,15 @@
 <markable id="markable_68" span="word_262" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_69" span="word_265..word_266" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_62" span="word_240..word_241" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_63" span="word_244" position="you (subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_63" span="word_244" position="you (subject)"  coref_class="empty"  audience="deictic you"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_64" span="word_248" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_65" span="word_254..word_255" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_60" span="word_232..word_233" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_61" span="word_236" position="you (subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_61" span="word_236" position="you (subject)"  coref_class="empty"  audience="deictic you"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_79" span="word_311" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_77" span="word_301" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_78" span="word_307" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_75" span="word_293" position="you (subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_75" span="word_293" position="you (subject)"  coref_class="empty"  audience="deictic you"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_76" span="word_298..word_299" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_73" span="word_286..word_287" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_74" span="word_292" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
@@ -25,9 +25,9 @@
 <markable id="markable_45" span="word_184..word_187" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_46" span="word_189" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_47" span="word_191" position="it (non-subject)"  coref_class="set_6"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
-<markable id="markable_48" span="word_192" position="none"  coref_class="empty"  mmax_level="coref"  nptype="none"  agreement="none"  split="simple antecedent"  mention="pronoun"  type="pronoun"  sub_apposition="none" />
+<markable id="markable_48" span="word_192" coref_class="empty"  mmax_level="coref"  nptype="np"  mention="np" />
 <markable id="markable_49" span="word_194..word_196" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_40" span="word_165" position="you (non-subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_40" span="word_165" position="you (non-subject)"  coref_class="empty"  audience="deictic you"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_41" span="word_167" position="it (subject)"  coref_class="set_6"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
 <markable id="markable_42" span="word_170" position="none"  coref_class="set_6"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
 <markable id="markable_43" span="word_172..word_173" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
@@ -37,7 +37,7 @@
 <markable id="markable_56" span="word_217" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_59" span="word_227" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_50" span="word_198..word_199" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_53" span="word_206" position="you (non-subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_53" span="word_206" position="you (non-subject)"  coref_class="empty"  audience="deictic you"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_54" span="word_210" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_51" span="word_201" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_52" span="word_204" position="it (non-subject)"  coref_class="set_6"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
@@ -54,18 +54,18 @@
 <markable id="markable_170" span="word_692..word_693" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_171" span="word_697..word_699" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_174" span="word_706..word_707" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_175" span="word_710" position="you (subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_175" span="word_710" position="you (subject)"  coref_class="empty"  audience="generic you"  mmax_level="coref"  agreement="none"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_172" span="word_701..word_702" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_173" span="word_704" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_178" span="word_718..word_719" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_179" span="word_720" position="you (subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_179" span="word_720" position="you (subject)"  coref_class="empty"  audience="deictic you"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_176" span="word_712..word_713" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_177" span="word_716" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_81" span="word_321..word_322" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_183" span="word_744" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_286" span="word_1157..word_1159" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_80" span="word_317..word_318" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_184" span="word_746..word_747" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
+<markable id="markable_184" span="word_746..word_747" position="none"  coref_class="set_35"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_287" span="word_1163" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_83" span="word_329" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_185" span="word_749..word_752" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
@@ -93,7 +93,7 @@
 <markable id="markable_285" span="word_1155" position="it (non-subject)"  coref_class="set_23"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
 <markable id="markable_90" span="word_362" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_94" span="word_377" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_196" span="word_789..word_790" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
+<markable id="markable_196" span="word_789..word_797" position="none"  coref_class="set_36"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_299" span="word_1207" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_93" span="word_370..word_371" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_197" span="word_792..word_793" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
@@ -101,32 +101,32 @@
 <markable id="markable_194" span="word_782" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="pleonastic" />
 <markable id="markable_297" span="word_1195..word_1198" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_91" span="word_364" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_195" span="word_787" position="you (subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_195" span="word_787" position="you (subject)"  coref_class="empty"  audience="generic you"  mmax_level="coref"  agreement="none"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_298" span="word_1200" position="it (subject)"  coref_class="set_25"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
 <markable id="markable_98" span="word_392" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_192" span="word_775" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_97" span="word_389" position="you (subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_97" span="word_389" position="you (subject)"  coref_class="empty"  audience="deictic you"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_193" span="word_778..word_780" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_96" span="word_385..word_386" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_190" span="word_768..word_769" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_95" span="word_382..word_383" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_191" span="word_772" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="event" />
+<markable id="markable_191" span="word_772" position="none"  coref_class="set_35"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
 <markable id="markable_291" span="word_1181" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_292" span="word_1184" position="you (subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_292" span="word_1184" position="you (subject)"  coref_class="empty"  audience="generic you"  mmax_level="coref"  agreement="none"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_99" span="word_394" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_290" span="word_1177" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="speaker reference" />
+<markable id="markable_290" span="word_1177" coref_class="empty"  audience="all-inclusive we"  mmax_level="coref"  mention="pronoun"  type="speaker reference" />
 <markable id="markable_295" span="word_1190..word_1191" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_296" span="word_1193" coref_class="set_25"  mmax_level="coref"  mention="pronoun"  type="extratextual reference" />
-<markable id="markable_198" span="word_795..word_797" coref_class="set_11"  mmax_level="coref"  nptype="np"  mention="np" />
+<markable id="markable_198" span="word_795..word_797" coref_class="empty"  mmax_level="coref"  nptype="np"  mention="np" />
 <markable id="markable_293" span="word_1186" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_199" span="word_805" position="it (subject)"  coref_class="set_11"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
-<markable id="markable_294" span="word_1187" position="you (subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_199" span="word_805" position="it (subject)"  coref_class="set_36"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
+<markable id="markable_294" span="word_1187" position="you (subject)"  coref_class="empty"  audience="generic you"  mmax_level="coref"  agreement="none"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_8" span="word_43" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_9" span="word_43..word_44" position="none"  coref_class="set_1"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_7" span="word_37" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_6" span="word_34..word_35" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_5" span="word_32" position="it (non-subject)"  coref_class="set_0"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
-<markable id="markable_4" span="word_29" position="you (subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_4" span="word_29" position="you (subject)"  coref_class="empty"  audience="deictic you"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_3" span="word_17..word_19" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_2" span="word_9..word_11" position="none"  coref_class="set_0"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_1" span="word_4" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
@@ -140,26 +140,27 @@
 <markable id="markable_101" span="word_400..word_401" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_100" span="word_398" coref_class="set_8"  mmax_level="coref"  mention="pronoun"  type="event" />
 <markable id="markable_106" span="word_419..word_421" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_105" span="word_416" position="you (subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="generic" />
+<markable id="markable_105" span="word_416" position="you (subject)"  coref_class="empty"  audience="generic you"  mmax_level="coref"  agreement="none"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_104" span="word_413" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_103" span="word_407..word_408" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_311" span="word_1261..word_1263" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_310" span="word_1257..word_1258" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
+<markable id="markable_504" span="word_1233" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="extratextual reference" />
 <markable id="markable_503" span="word_1641" coref_class="set_32"  mmax_level="coref"  mention="pronoun"  type="event" />
 <markable id="markable_315" span="word_1278" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="event" />
 <markable id="markable_314" span="word_1275" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_313" span="word_1271" position="you (subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
-<markable id="markable_312" span="word_1266" position="you (subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_313" span="word_1271" position="you (subject)"  coref_class="empty"  audience="deictic you"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_312" span="word_1266" position="you (subject)"  coref_class="empty"  audience="deictic you"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_500" span="word_1575" coref_class="set_31"  mmax_level="coref"  mention="pronoun"  type="extratextual reference" />
-<markable id="markable_501" span="word_1581" position="none"  coref_class="set_31"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
-<markable id="markable_502" span="word_1589" position="none"  coref_class="set_31"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
+<markable id="markable_501" span="word_1581" coref_class="set_31"  mmax_level="coref"  mention="pronoun"  type="extratextual reference" />
+<markable id="markable_502" span="word_1589" coref_class="set_31"  mmax_level="coref"  mention="pronoun"  type="extratextual reference" />
 <markable id="markable_107" span="word_423" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_108" span="word_426" position="none"  coref_class="set_8"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
-<markable id="markable_109" span="word_431" position="it (subject)"  coref_class="set_8"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
+<markable id="markable_108" span="word_426" coref_class="set_8"  mmax_level="coref"  mention="pronoun"  type="event" />
+<markable id="markable_109" span="word_431" coref_class="set_8"  mmax_level="coref"  mention="pronoun"  type="event" />
 <markable id="markable_111" span="word_440" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_110" span="word_433..word_436" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_113" span="word_444..word_445" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_112" span="word_442" position="you (non-subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_112" span="word_442" position="you (non-subject)"  coref_class="empty"  audience="deictic you"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_115" span="word_453" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="event" />
 <markable id="markable_114" span="word_447..word_448" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_117" span="word_457..word_458" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
@@ -167,10 +168,10 @@
 <markable id="markable_300" span="word_1213" position="it (non-subject)"  coref_class="set_25"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
 <markable id="markable_302" span="word_1218" coref_class="set_26"  mmax_level="coref"  mention="pronoun"  type="extratextual reference" />
 <markable id="markable_301" span="word_1214..word_1216" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_304" span="word_1224" position="none"  coref_class="set_26"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
+<markable id="markable_304" span="word_1224" coref_class="set_26"  mmax_level="coref"  mention="pronoun"  type="extratextual reference" />
 <markable id="markable_303" span="word_1221..word_1222" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_414" span="word_1721" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_413" span="word_1719" position="you (non-subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_413" span="word_1719" position="you (non-subject)"  coref_class="empty"  audience="deictic you"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_412" span="word_1716" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_411" span="word_1712..word_1713" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_410" span="word_1708" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
@@ -181,20 +182,20 @@
 <markable id="markable_146" span="word_579" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_408" span="word_1701" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_143" span="word_559..word_560" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_409" span="word_1704..word_1705" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
+<markable id="markable_409" span="word_1704..word_1705" position="none"  coref_class="set_41"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_144" span="word_567" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="event" />
-<markable id="markable_406" span="word_1690" position="you (non-subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_406" span="word_1690" position="you (non-subject)"  coref_class="empty"  audience="deictic you"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_149" span="word_592" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="event" />
 <markable id="markable_407" span="word_1695" position="it (subject)"  coref_class="set_33"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
 <markable id="markable_404" span="word_1684" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_147" span="word_582..word_583" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_405" span="word_1687..word_1688" position="none"  coref_class="set_33"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_148" span="word_587" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="speaker reference" />
+<markable id="markable_148" span="word_587" coref_class="empty"  audience="all-inclusive we"  mmax_level="coref"  mention="pronoun"  type="speaker reference" />
 <markable id="markable_401" span="word_1669..word_1670" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_400" span="word_1665..word_1666" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_403" span="word_1677" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="not sure. help!" />
-<markable id="markable_402" span="word_1674" position="it (subject)"  coref_class="set_32"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
-<markable id="markable_150" span="word_597" position="you (subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_403" span="word_1677" coref_class="set_40"  mmax_level="coref"  mention="pronoun"  type="extratextual reference" />
+<markable id="markable_402" span="word_1674" coref_class="set_32"  mmax_level="coref"  mention="pronoun"  type="event" />
+<markable id="markable_150" span="word_597" position="you (subject)"  coref_class="empty"  audience="deictic you"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_151" span="word_601" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_152" span="word_603..word_605" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_153" span="word_610..word_611" position="none"  coref_class="set_10"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
@@ -203,10 +204,10 @@
 <markable id="markable_156" span="word_618" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_157" span="word_620..word_623" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_158" span="word_631" position="it (subject)"  coref_class="set_10"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
-<markable id="markable_159" span="word_633" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="not sure. help!" />
+<markable id="markable_159" span="word_633" position="none"  coref_class="empty"  mmax_level="coref"  agreement="they (pl.)"  split="no explicit antecedent"  mention="pronoun"  type="anaphoric" />
 <markable id="markable_432" span="word_1227" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_431" span="word_1785" position="you (non-subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
-<markable id="markable_430" span="word_1777" position="you (subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_431" span="word_1785" position="you (non-subject)"  coref_class="empty"  audience="deictic you"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_430" span="word_1777" position="you (subject)"  coref_class="empty"  audience="deictic you"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_436" span="word_727" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_435" span="word_724..word_725" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_434" span="word_1585" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
@@ -218,7 +219,7 @@
 <markable id="markable_127" span="word_492" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_429" span="word_1775" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_128" span="word_496..word_497" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_426" span="word_1766" position="you (non-subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_426" span="word_1766" position="you (non-subject)"  coref_class="empty"  audience="deictic you"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_125" span="word_487..word_488" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_427" span="word_1767..word_1768" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_126" span="word_490..word_491" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
@@ -228,7 +229,7 @@
 <markable id="markable_122" span="word_472..word_473" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_421" span="word_1744..word_1745" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_420" span="word_1742" position="it (non-subject)"  coref_class="set_34"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
-<markable id="markable_423" span="word_1753" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="event" />
+<markable id="markable_423" span="word_1753" position="it (non-subject)"  coref_class="set_41"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
 <markable id="markable_422" span="word_1747" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_129" span="word_503..word_504" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_425" span="word_1762" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
@@ -245,10 +246,10 @@
 <markable id="markable_139" span="word_549" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="extratextual reference" />
 <markable id="markable_419" span="word_1738..word_1739" position="none"  coref_class="set_34"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_132" span="word_513..word_514" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_133" span="word_518" position="you (non-subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
-<markable id="markable_134" span="word_523" position="you (non-subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_133" span="word_518" position="you (non-subject)"  coref_class="empty"  audience="deictic you"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_134" span="word_523" position="you (non-subject)"  coref_class="empty"  audience="deictic you"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_135" span="word_525..word_526" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_258" span="word_1052" position="it (subject)"  coref_class="set_20"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
+<markable id="markable_258" span="word_1052" coref_class="set_20"  mmax_level="coref"  mention="pronoun"  type="event" />
 <markable id="markable_257" span="word_1049..word_1050" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_391" span="word_1621" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_390" span="word_1618..word_1619" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
@@ -263,12 +264,12 @@
 <markable id="markable_256" span="word_1044..word_1047" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_394" span="word_1633" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="event" />
 <markable id="markable_255" span="word_1042" coref_class="set_20"  mmax_level="coref"  mention="pronoun"  type="event" />
-<markable id="markable_397" span="word_1655" position="it (subject)"  coref_class="set_32"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
+<markable id="markable_397" span="word_1655" coref_class="set_32"  mmax_level="coref"  mention="pronoun"  type="event" />
 <markable id="markable_250" span="word_1025..word_1027" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_396" span="word_1650" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_399" span="word_1663" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_252" span="word_1034" position="you (subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
-<markable id="markable_398" span="word_1658" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="not sure. help!" />
+<markable id="markable_252" span="word_1034" position="you (subject)"  coref_class="empty"  audience="generic you"  mmax_level="coref"  agreement="none"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_398" span="word_1658" coref_class="set_40"  mmax_level="coref"  mention="pronoun"  type="extratextual reference" />
 <markable id="markable_251" span="word_1025..word_1031" coref_class="set_18"  mmax_level="coref"  nptype="np"  mention="np" />
 <markable id="markable_16" span="word_72" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_15" span="word_69..word_70" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
@@ -292,7 +293,7 @@
 <markable id="markable_249" span="word_1022..word_1023" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_248" span="word_1019..word_1020" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_247" span="word_1014..word_1015" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_246" span="word_1010" position="you (subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_246" span="word_1010" position="you (subject)"  coref_class="empty"  audience="generic you"  mmax_level="coref"  agreement="none"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_384" span="word_1591..word_1592" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_245" span="word_1009" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_439" span="word_1623..word_1624" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
@@ -300,14 +301,14 @@
 <markable id="markable_244" span="word_1006..word_1007" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_382" span="word_1578..word_1579" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_438" span="word_752" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_243" span="word_1004" position="you (subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
-<markable id="markable_381" span="word_1568" position="you (non-subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_243" span="word_1004" position="you (subject)"  coref_class="empty"  audience="generic you"  mmax_level="coref"  agreement="none"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_381" span="word_1568" position="you (non-subject)"  coref_class="empty"  audience="deictic you"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_437" span="word_749..word_750" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_242" span="word_1000" position="it (non-subject)"  coref_class="set_17"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
+<markable id="markable_242" span="word_1000" coref_class="set_17"  mmax_level="coref"  mention="pronoun"  type="event" />
 <markable id="markable_388" span="word_1609" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_241" span="word_993..word_994" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_387" span="word_1606" position="you (subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
-<markable id="markable_240" span="word_990" position="it (non-subject)"  coref_class="set_17"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
+<markable id="markable_387" span="word_1606" position="you (subject)"  coref_class="empty"  audience="deictic you"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_240" span="word_990" coref_class="set_17"  mmax_level="coref"  mention="pronoun"  type="event" />
 <markable id="markable_386" span="word_1601" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_385" span="word_1595" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_389" span="word_1614..word_1615" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
@@ -322,30 +323,30 @@
 <markable id="markable_441" span="word_10" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_371" span="word_1515..word_1517" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_276" span="word_1120..word_1123" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_370" span="word_1514" position="you (non-subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
-<markable id="markable_275" span="word_1118" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="event" />
+<markable id="markable_370" span="word_1514" position="you (non-subject)"  coref_class="empty"  audience="deictic you"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_275" span="word_1118" position="it (non-subject)"  coref_class="set_39"  mmax_level="coref"  agreement="none"  split="split reference"  mention="pronoun"  type="anaphoric" />
 <markable id="markable_373" span="word_1535..word_1536" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_278" span="word_1128..word_1129" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_372" span="word_1531" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_277" span="word_1125" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="pleonastic" />
-<markable id="markable_279" span="word_1132" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="event" />
+<markable id="markable_279" span="word_1132" position="it (non-subject)"  coref_class="set_39"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
 <markable id="markable_379" span="word_1563" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_378" span="word_1555..word_1557" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_270" span="word_1088..word_1090" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
+<markable id="markable_270" span="word_1088..word_1090" coref_class="set_39"  mmax_level="coref"  nptype="np"  mention="np" />
 <markable id="markable_375" span="word_1545" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_272" span="word_1104..word_1105" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
+<markable id="markable_272" span="word_1104..word_1105" position="none"  coref_class="set_39"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_374" span="word_1538..word_1539" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_271" span="word_1096..word_1098" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
+<markable id="markable_271" span="word_1096..word_1098" position="none"  coref_class="set_39"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_377" span="word_1553" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_274" span="word_1116" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_376" span="word_1546..word_1547" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_273" span="word_1112..word_1113" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_34" span="word_139" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="speaker reference" />
+<markable id="markable_273" span="word_1112..word_1113" position="none"  coref_class="set_39"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
+<markable id="markable_34" span="word_139" coref_class="empty"  audience="all-inclusive we"  mmax_level="coref"  mention="pronoun"  type="speaker reference" />
 <markable id="markable_33" span="word_134" position="it (non-subject)"  coref_class="set_3"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
 <markable id="markable_36" span="word_144" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_35" span="word_142..word_143" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_38" span="word_151..word_157" coref_class="set_6"  mmax_level="coref"  nptype="np"  mention="np" />
-<markable id="markable_37" span="word_150" position="you (non-subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_37" span="word_150" position="you (non-subject)"  coref_class="empty"  audience="deictic you"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_470" span="word_317" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_471" span="word_334" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_39" span="word_160" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
@@ -361,11 +362,11 @@
 <markable id="markable_479" span="word_530" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_31" span="word_126..word_127" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_362" span="word_1479" position="none"  coref_class="set_29"  mmax_level="coref"  agreement="they (pl.)"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
-<markable id="markable_267" span="word_1081" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="speaker reference" />
+<markable id="markable_267" span="word_1081" coref_class="empty"  audience="all-inclusive we"  mmax_level="coref"  mention="pronoun"  type="speaker reference" />
 <markable id="markable_361" span="word_1476" position="none"  coref_class="set_29"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_266" span="word_1077..word_1079" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_360" span="word_1473" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_265" span="word_1076" position="you (non-subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_265" span="word_1076" position="you (non-subject)"  coref_class="empty"  audience="deictic you"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_459" span="word_1431" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_264" span="word_1074" position="it (non-subject)"  coref_class="set_22"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
 <markable id="markable_269" span="word_1085..word_1086" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
@@ -373,10 +374,10 @@
 <markable id="markable_369" span="word_1512" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_368" span="word_1505..word_1507" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_19" span="word_88" position="none"  coref_class="set_2"  mmax_level="coref"  agreement="they (sg.)"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
-<markable id="markable_367" span="word_1503" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="speaker reference" />
-<markable id="markable_366" span="word_1497" position="none"  coref_class="set_30"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
+<markable id="markable_367" span="word_1503" coref_class="empty"  audience="exclusive we"  mmax_level="coref"  mention="pronoun"  type="speaker reference" />
+<markable id="markable_366" span="word_1497" coref_class="set_30"  mmax_level="coref"  mention="pronoun"  type="extratextual reference" />
 <markable id="markable_263" span="word_1071" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_365" span="word_1489" coref_class="set_30"  mmax_level="coref"  mention="pronoun"  type="not sure. help!" />
+<markable id="markable_365" span="word_1489" coref_class="set_30"  mmax_level="coref"  mention="pronoun"  type="extratextual reference" />
 <markable id="markable_262" span="word_1067..word_1068" position="none"  coref_class="set_22"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_364" span="word_1483" position="none"  coref_class="set_29"  mmax_level="coref"  agreement="they (pl.)"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
 <markable id="markable_261" span="word_1064..word_1065" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
@@ -386,90 +387,90 @@
 <markable id="markable_24" span="word_103" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_23" span="word_99..word_100" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_22" span="word_96" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_460" span="word_1546" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_29" span="word_119..word_121" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_461" span="word_1556" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
+<markable id="markable_460" span="word_1546" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_28" span="word_116..word_117" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
+<markable id="markable_461" span="word_1556" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_27" span="word_112..word_114" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_26" span="word_108" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="event" />
 <markable id="markable_464" span="word_1744" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_465" span="word_240" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_462" span="word_1614" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_463" span="word_1628" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_21" span="word_93..word_94" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_468" span="word_278" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_20" span="word_90..word_91" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
+<markable id="markable_21" span="word_93..word_94" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_469" span="word_286" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
+<markable id="markable_20" span="word_90..word_91" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_466" span="word_257" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_467" span="word_265" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_352" span="word_1438" position="you (subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_352" span="word_1438" position="you (subject)"  coref_class="empty"  audience="deictic you"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_353" span="word_1442..word_1443" position="none"  coref_class="set_27"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_354" span="word_1447" position="you (subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_354" span="word_1447" position="you (subject)"  coref_class="empty"  audience="deictic you"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_355" span="word_1452" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_356" span="word_1454" position="none"  coref_class="set_27"  mmax_level="coref"  agreement="they (pl.)"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
-<markable id="markable_357" span="word_1456" position="you (non-subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_357" span="word_1456" position="you (non-subject)"  coref_class="empty"  audience="deictic you"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_358" span="word_1460" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_359" span="word_1462..word_1463" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_213" span="word_861..word_862" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
+<markable id="markable_213" span="word_861..word_865" position="none"  coref_class="set_37"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_214" span="word_864..word_865" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_215" span="word_867..word_868" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_216" span="word_870" position="none"  coref_class="set_15"  mmax_level="coref"  agreement="they (pl.)"  split="split reference"  mention="pronoun"  type="anaphoric" />
+<markable id="markable_216" span="word_870" position="none"  coref_class="set_37"  mmax_level="coref"  agreement="they (pl.)"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
 <markable id="markable_210" span="word_847..word_848" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_350" span="word_1426" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="speaker reference" />
 <markable id="markable_211" span="word_850" position="it (non-subject)"  coref_class="set_15"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
-<markable id="markable_351" span="word_1430..word_1432" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
+<markable id="markable_350" span="word_1426" coref_class="empty"  audience="all-inclusive we"  mmax_level="coref"  mention="pronoun"  type="speaker reference" />
 <markable id="markable_212" span="word_852" position="it (subject)"  coref_class="set_15"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
+<markable id="markable_351" span="word_1430..word_1432" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_499" span="word_1712" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
+<markable id="markable_207" span="word_834" position="you (subject)"  coref_class="empty"  audience="generic you"  mmax_level="coref"  agreement="none"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_496" span="word_1442" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_207" span="word_834" position="you (subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
-<markable id="markable_495" span="word_1402" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_206" span="word_829..word_830" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_498" span="word_1591" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
+<markable id="markable_495" span="word_1402" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_209" span="word_842..word_843" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_497" span="word_1578" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
+<markable id="markable_498" span="word_1591" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_208" span="word_836..word_838" coref_class="set_15"  mmax_level="coref"  nptype="np"  mention="np" />
+<markable id="markable_497" span="word_1578" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_492" span="word_1253" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_349" span="word_1423..word_1425" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_491" span="word_1235" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
+<markable id="markable_349" span="word_1423..word_1425" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_494" span="word_1378" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_493" span="word_1371" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_490" span="word_1221" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_343" span="word_1395" position="you (non-subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (sg.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_343" span="word_1395" position="you (non-subject)"  coref_class="empty"  audience="deictic you"  mmax_level="coref"  agreement="you (sg.)"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_344" span="word_1402..word_1403" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_341" span="word_1390" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_342" span="word_1393" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_347" span="word_1415" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="extratextual reference" />
-<markable id="markable_348" span="word_1420" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="speaker reference" />
+<markable id="markable_348" span="word_1420" coref_class="empty"  audience="all-inclusive we"  mmax_level="coref"  mention="pronoun"  type="speaker reference" />
 <markable id="markable_345" span="word_1404..word_1406" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_346" span="word_1411..word_1413" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_204" span="word_824..word_825" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_205" span="word_827" position="you (subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_205" span="word_827" position="you (subject)"  coref_class="empty"  audience="generic you"  mmax_level="coref"  agreement="none"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_202" span="word_815..word_818" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_203" span="word_822" position="you (subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
-<markable id="markable_200" span="word_808..word_811" position="none"  coref_class="set_14"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
+<markable id="markable_203" span="word_822" position="you (subject)"  coref_class="empty"  audience="generic you"  mmax_level="coref"  agreement="none"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_200" span="word_808..word_811" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
+<markable id="markable_201" span="word_813" position="it (subject)"  coref_class="set_36"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
 <markable id="markable_340" span="word_1387" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_201" span="word_813" position="it (subject)"  coref_class="set_14"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
-<markable id="markable_489" span="word_1135" position="none"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
-<markable id="markable_488" span="word_1128" position="none"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_489" span="word_1135" position="none"  coref_class="empty"  audience="generic you"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_488" span="word_1128" position="none"  coref_class="empty"  audience="generic you"  mmax_level="coref"  agreement="none"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_487" span="word_1049" position="none"  coref_class="set_19"  mmax_level="coref"  agreement="they (sg.)"  split="simple antecedent"  mention="pronoun"  type="anaphoric" />
 <markable id="markable_486" span="word_757" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_485" span="word_724" position="none"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_485" span="word_724" position="none"  coref_class="empty"  audience="deictic you"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_484" span="word_701" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_483" span="word_681" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_482" span="word_670" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_339" span="word_1383..word_1385" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_481" span="word_651" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_338" span="word_1380" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
+<markable id="markable_339" span="word_1383..word_1385" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_480" span="word_582" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
+<markable id="markable_338" span="word_1380" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_334" span="word_1368..word_1369" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_335" span="word_1371..word_1372" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_336" span="word_1374..word_1376" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_337" span="word_1378..word_1379" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_330" span="word_1339" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="extratextual reference" />
-<markable id="markable_331" span="word_1341" position="you (subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
-<markable id="markable_332" span="word_1347" position="you (subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
-<markable id="markable_333" span="word_1353" position="you (subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_331" span="word_1341" position="you (subject)"  coref_class="empty"  audience="deictic you"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_332" span="word_1347" position="you (subject)"  coref_class="empty"  audience="deictic you"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_230" span="word_942..word_944" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
+<markable id="markable_333" span="word_1353" position="you (subject)"  coref_class="empty"  audience="deictic you"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_231" span="word_946" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_232" span="word_952" coref_class="set_17"  mmax_level="coref"  mention="pronoun"  type="event" />
 <markable id="markable_233" span="word_954..word_955" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
@@ -481,16 +482,16 @@
 <markable id="markable_229" span="word_937..word_938" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_228" span="word_932..word_933" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_328" span="word_1331" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_327" span="word_1327" position="you (subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_327" span="word_1327" position="you (subject)"  coref_class="empty"  audience="deictic you"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_329" span="word_1334..word_1337" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_325" span="word_1319..word_1322" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_326" span="word_1325" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_323" span="word_1310" position="you (subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
-<markable id="markable_324" span="word_1315" position="you (subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_323" span="word_1310" position="you (subject)"  coref_class="empty"  audience="deictic you"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_324" span="word_1315" position="you (subject)"  coref_class="empty"  audience="deictic you"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_321" span="word_1299..word_1300" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_322" span="word_1307" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_320" span="word_1293" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
-<markable id="markable_222" span="word_910" position="you (subject)"  coref_class="empty"  mmax_level="coref"  agreement="you (pl.)"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_222" span="word_910" position="you (subject)"  coref_class="empty"  audience="generic you"  mmax_level="coref"  agreement="none"  mention="pronoun"  type="addressee reference" />
 <markable id="markable_223" span="word_912" position="none"  coref_class="set_16"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_220" span="word_893" position="none"  coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  split="simple antecedent"  mention="np"  type="none"  sub_apposition="none" />
 <markable id="markable_221" span="word_906" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="event" />
